@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Alfonso Rodríguez
 
-<!--
-**alfonsoAIData/alfonsoaidata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m an independent researcher and editor of FUTURE IN US, a newsletter exploring sustainability, emerging technologies, and the future of humanity through a critical and creative lens. 
 
-Here are some ideas to get you started:
+## Current Focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Making complex ideas accessible through storytelling and visual content.
+- Investigating how data can empower sustainable development.
+- Exploring emerging technologies such as quantum computing, with curiosity and long-term vision.
+
+## What I do
+
+- Write at [FUTURE IN US](https://futureinus.substack.com)
+- Analyze data from [NASA Earthdata](https://earthdata.nasa.gov), [DESTINE EO Platform](https://platform.destine.eu/) and other open data sources
+- Open to collaboration on projects related to sustainability, data-driven insights, and impact tech.
+
+## How to reach me
+
+- [LinkedIn](https://www.linkedin.com/in/alfonsoaidata/)
+- [X (Twitter)](https://x.com/alfonsoAIData)
+- [Linktree](https://linktr.ee/alfonsoaidata)
+
+> Always exploring. Always learning. Always building for a better future.
