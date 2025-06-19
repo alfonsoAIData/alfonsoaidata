@@ -11,7 +11,7 @@ I’m an independent researcher and editor of FUTURE IN US, a newsletter explori
 ## What I do
 
 - Create content at [FUTURE NEWS](https://www.youtube.com/@futurenewsoficial), a YouTube channel covering sustainability, emerging technologies, and innovation.
-- Analyze data from [NASA Earthdata](https://earthdata.nasa.gov), [DESTINE EO Platform](https://platform.destine.eu/) and other open data sources.
+- Analyze data from [DestinE Platform](https://platform.destine.eu/), [NASA Earthdata](https://earthdata.nasa.gov) and other open data sources.
 - Open to collaboration on projects related to sustainability, data-driven insights, and impact tech.
 
 ## How to reach me
