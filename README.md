@@ -10,14 +10,14 @@ I’m an independent researcher and editor of FUTURE IN US, a newsletter explori
 
 ## What I do
 
-- Write at [FUTURE IN US](https://futureinus.substack.com)
-- Analyze data from [NASA Earthdata](https://earthdata.nasa.gov), [DESTINE EO Platform](https://platform.destine.eu/) and other open data sources
+- Create content at [FUTURE NEWS](https://www.youtube.com/@futurenewsoficial), a YouTube channel covering sustainability, emerging technologies, and innovation.
+- Analyze data from [NASA Earthdata](https://earthdata.nasa.gov), [DESTINE EO Platform](https://platform.destine.eu/) and other open data sources.
 - Open to collaboration on projects related to sustainability, data-driven insights, and impact tech.
 
 ## How to reach me
 
 - [LinkedIn](https://www.linkedin.com/in/alfonsoaidata/)
 - [X (Twitter)](https://x.com/alfonsoAIData)
-- [Linktree](https://linktr.ee/alfonsoaidata)
+- [Linktree](https://linktr.ee/futurenews)
 
 > Always exploring. Always learning. Always building for a better future.
