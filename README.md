@@ -1,8 +1,8 @@
 # Hi, I'm Alfonso Rodríguez
 
-**Digital Experience Creator focused on Climate & Sustainability**
+**Digital Experience Creator focused on Climate**
 
-I create clear, visual and interactive digital experiences that connect **climate, sustainability, data, technology and human exploration** to help people better understand the world around them and explore what may come next.
+I create clear, visual and interactive digital experiences that connect **climate, data, technology and human exploration** to help people better understand the world around them and explore what may come next.
 
 My work combines open data, visual storytelling, interaction and research to turn complex information into experiences that are easier to explore and understand.
 
@@ -28,7 +28,7 @@ MOON ↔ EARTH connects research, technologies and experience across areas such 
 
 ## What I Explore
 
-* Climate, environment and sustainability.
+* Climate and environment.
 * Open data and public data sources.
 * Data visualization and visual storytelling.
 * Interactive digital experiences.
